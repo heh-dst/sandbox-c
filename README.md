@@ -19,9 +19,23 @@ Des outils de développement Python sont également installés pour pouvoir faci
     ./monprogramme
     ```
 
-## Exemple
+## Exemples
+
+### En C
 
 ```
 make hello
 ./hello
+```
+
+### En C++
+
+```
+make hello++
+./hello++
+```
+
+### En Python
+```
+python3 ./hello.py
 ```
